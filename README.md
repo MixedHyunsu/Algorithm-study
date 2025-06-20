@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Algorithm-study
 
 This repository contains implementations of classic **algorithmic techniques** in Java.  
